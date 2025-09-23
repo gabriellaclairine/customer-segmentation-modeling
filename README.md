@@ -23,9 +23,3 @@ The goal is to identify distinct customer groups for **targeted marketing** and 
 ## 📈 Results
 - Segmented customers into meaningful groups with distinct demographics and behavior.  
 - Extracted actionable insights to support **targeted marketing strategies**.
-
----
-
-## 🛠️ Tools & Libraries
-- Python, Pandas, NumPy  
-- Scikit-learn, Matplotlib, Seaborn
